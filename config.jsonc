@@ -901,8 +901,8 @@
         // coming soon
     },
     "config": {
-        "proxy": true, // proxy only works when self-hosted
-        "proxyPath": "/index.js" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
+        "proxy": false, // proxy only works when self-hosted
+        "proxyPath": "/proxy.html" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
         // if you are using VioletGG2, all you need to do set proxy to true
         // proxyPath is already set for you if you are using VioletGG2
     }
