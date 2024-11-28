@@ -4,13 +4,13 @@ let themes;
 
 function changeLoadingTip() {
     const tips = [
-        'Welcome to the land of Nothing!',
-        'Here there is absolutely nothing for you.',
-        'Just gotta wait for it to load',
-        "Shouldn't take any longer",
-        'Why are you here?',
-        'Just one more minute',
-        'Go read a book :)',
+        'Welcome to the land of Passionfruit!',
+        'Here there is absolutely nothing for you. (except passionfruit)',
+        'Just gotta wait for the passionfruit to load',
+        "Shouldn't take any longer to get the passionfruit",
+        'Why are you here? Waiting for passionfruit?',
+        'Just one more minute to get the passionfruit.',
+        'Go read a book about passionfruit :)',
     ];
     const element = document.getElementsByClassName('loading-tip')[0];
 
